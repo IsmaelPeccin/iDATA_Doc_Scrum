@@ -156,8 +156,12 @@ O desenvolvimento tradicional, forma predominante antes da publicação do manif
 
   As cerimônias serão realizadas de forma online e presencial simultaneamente, através de vídeo-conferência.
   As cerimônias de Planejamento, Revisão e Retrospectiva da Sprint não possuem datas nem horários fixos para acontecerem, e seus respectivos timebox dependem do tempo de duração da Sprint. 
-  Já as Daily Meets são diárias, no período da manhã e terão timebox de 15 minutos. 
-
+  Já as Daily Meets são diárias, no período da manhã e terão timebox de 15 minutos.
+  
+  ## Ferramentas
+  
+  Como auxiliar para administrar e organizar os artefatos do Scrum, se faz útil o uso de ferramentas como o Trello, que nos permite disponibilizar um quadro Kanban online, que torna o desnvolvimento dos requisitos da Sprint claro para todo o time.
+ 
 
 
 
